@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .far {
+    width: 15px;
+    height: 15px;
+ }
